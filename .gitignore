@@ -13,3 +13,7 @@ hs_err_pid*
 .project
 *.prefs
 .classpath
+
+# intellij
+.idea
+*.iml
