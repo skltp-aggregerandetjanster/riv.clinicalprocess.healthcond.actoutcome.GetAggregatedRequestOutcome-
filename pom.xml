@@ -28,10 +28,10 @@ DON'T CHANGE THE CONTENT OF THIS COMMENT UNLESS YOU REALLY KNOW WHAT YOU ARE DOI
       <!-- Turn off strict checking of javadoc tags for Java 8 -->
       <additionalparam>-Xdoclint:none</additionalparam>
   </properties>
-
+    
   <scm>
-    <connection>scm:git:https://github.com:443/skltp-aggregerandetjanster/riv.clinicalprocess.healthcond.actoutcome.GetAggregatedRequestOutcome.git</connection>
-    <developerConnection>scm:git:https://github.com:443/skltp-aggregerandetjanster/riv.clinicalprocess.healthcond.actoutcome.GetAggregatedRequestOutcome.git</developerConnection>
+    <connection>scm:git:https://github.com:443/skltp-aggregerandetjanster/riv.clinicalprocess.healthcond.actoutcome.GetAggregatedRequestOutcome-.git</connection>
+    <developerConnection>scm:git:https://github.com:443/skltp-aggregerandetjanster/riv.clinicalprocess.healthcond.actoutcome.GetAggregatedRequestOutcome-.git</developerConnection>
     <url>http://github.com/skltp-aggregerandetjanster/riv.clinicalprocess.healthcond.actoutcome.GetAggregatedRequestOutcome</url>
     <tag>HEAD</tag>
   </scm>
